@@ -1,0 +1,70 @@
+.inline-block {
+    display: inline-block;
+    vertical-align: top;
+}
+.logo {
+    width: 23%;
+    padding: 1%;
+    text-align: center;
+}
+nav {
+    width: 73%;
+    padding: 1%;
+
+}
+
+.pageLinks {
+    width: 50%;
+    margin-left: auto;
+}
+.heroImg {
+    height: 500px;
+    padding: 25px;
+    align: center;
+    background-color: blue;
+}
+.content {
+    width: 500px;
+    margin: 0 auto;
+}
+.aboutMe {
+    background-color: black;
+    border: solid 10px #6663D4;
+    border-radius: 25px;
+}
+p {
+    color: white;
+}
+
+h1 {
+    align-items: center;
+
+}
+.personalImage {
+}
+
+button {align-items: baseline;
+    justify-content: center;
+}
+
+footer {
+    background-color: 373738;
+    padding-top: 50px;
+    padding-right: 1px;
+    padding-bottom: 1px;
+    padding-left: 1px;
+    align-content: space-between;
+}
+
+.copyright {
+    color: #6663D4;
+}
+.email {
+    color: #6663D4;
+}
+
+.foot {
+    display: flex;
+    justify-content: space-between;
+
+}
