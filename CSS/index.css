@@ -29,13 +29,13 @@ body {
   .icons {
     position: absolute;
     top: 0px;
-    right: 40px;
-    width: 18%;
+    right: 1px;
+    width: 30%;
     cursor: pointer;
   }
   
   .icons img {
-    margin: 15px;
+    margin: 0px;
     cursor: pointer;
   }
 
